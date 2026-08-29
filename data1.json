@@ -1,0 +1,46 @@
+{
+        "class": "Fachinformatiker",
+        "students": [
+                {
+                        "name": "Akrom",
+                        "gpa": 97,
+                        "major": "Fachinformatiker"
+                },
+                {
+                        "name": "Ciph",
+                        "gpa": 96,
+                        "major": "English"
+                },
+                {
+                        "name": "Lena",
+                        "gpa": 91,
+                        "major": "Fachinformatiker"
+                },
+                {
+                        "name": "Marco",
+                        "gpa": 88,
+                        "major": "Mechatronik"
+                },
+                {
+                        "name": "Sara",
+                        "gpa": 94,
+                        "major": "Kaufmann"
+                },
+                {
+                        "name": "Jonas",
+                        "gpa": 85,
+                        "major": "Fachinformatiker"
+                },
+                {
+                        "name": "Alan",
+                        "gpa": 86,
+                        "major": "Geschaftsmann"
+                },
+                {
+                        "name": "Alan",
+                        "gpa": 86,
+                        "major": "Geschaftsmann"
+                }
+        ],
+        "Author": "Akrom"
+}

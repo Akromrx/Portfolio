@@ -1,0 +1,1 @@
+print(f"{"Akrom"[::-1].title()}")
